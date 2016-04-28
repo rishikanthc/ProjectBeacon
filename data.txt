@@ -1,0 +1,2 @@
+sac:Weather.is.cold
+Weather:8C.Cold.Windy
